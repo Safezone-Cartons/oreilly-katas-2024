@@ -8,5 +8,6 @@
 
 - StayHealth, Inc. will be providing hardware that is capable of sending data as an IoT device over a local network
 - Each vital sign device has a unique QR-Code code with the device identifier
+- Each (nurse) station within the Hospital has a internal network set up that MonitorMe can use
 
 ---
