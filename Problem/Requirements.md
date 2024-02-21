@@ -4,13 +4,13 @@
 
 * Read data from at least 8 vital sign devices
 * Monitoring screen setup
-* avg responsetime <1 second on monitoring system
+* Average response time <1 second on monitoring system
 * Patient rotating system every ~5 seconds
-* max. 20 patients per station
-* filter option
-* access to data <24hrs
-* send alerts to medial staff on issues
-* Adecuate monitoring aanalys system
+* Max. 20 patients per station
+* Filter option
+* Access to data <24hrs
+* Send alerts to medial staff on issues
+* Adequate monitoring analysis system
 
 
 ## Significant Non-Functional requirements

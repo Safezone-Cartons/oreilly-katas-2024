@@ -8,7 +8,7 @@ Approved
 
 ## Context
 
-Our application must be able to easy interconnect with different device types in order to receive data, it has to have a  real-time throughput as an requirement and should be easy maintanable. 
+Our application must be able to easy interconnect with different device types in order to receive data, it has to have a  real-time throughput as an requirement and should be easy maintainable. 
 
 
 ## Decision
@@ -17,7 +17,7 @@ NodeJS with Express
 
 ## Consequences
 
-NodeJS is lightweight and efficent footprint, and therefore ideal to use in a Edge System. 
+NodeJS is lightweight and efficient footprint, and therefore ideal to use in a Edge System. 
 
-Due to its event-driven nature and the capabillity of real-time data handling we will be able to process sensor data in real-time 
+Due to its event-driven nature and the capability of real-time data handling we will be able to process sensor data in real-time 
 

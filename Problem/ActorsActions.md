@@ -14,8 +14,8 @@ Leading Nurse is the person who can manage specific in the Nurse Station system
 
 - Setup new patient in the system
 - Remove patient from the system
-- Modify patient trashhold
-- everything what a *nurse* can do
+- Modify patient threshold
+- Everything what a *Nurse* can do
 
 
 **Actor:** Nurse
@@ -27,7 +27,7 @@ Nurse is the person who is observing the Nurse Station system
 - Modify patient data
 - Add device to patient
 - Create snapshot of patient data
-- View patient trashhold values
+- View patient threshold values
 - Set focus for patient on Monitoring screen
 
 
@@ -37,8 +37,8 @@ Medical Staff who manages several patients in different stations and floors
 
 **Actions:**
 
-- Watch combined health metics of selected patients
-- Setup alerts for specific patients s/he is responible for
+- Watch combined health metrics of selected patients
+- Setup alerts for specific patients s/he is responsible for
 - ...
 - everything what a *leading nurse* can do
 
