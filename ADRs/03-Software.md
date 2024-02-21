@@ -17,7 +17,7 @@ NodeJS with Express
 
 ## Consequences
 
-NodeJS is lightweight and efficient footprint, and therefore ideal to use in a Edge System. 
+NodeJS is lightweight and efficient footprint, and therefore ideal to use in an Edge System. 
 
-Due to its event-driven nature and the capability of real-time data handling we will be able to process sensor data in real-time 
+Due to its event-driven nature and the capability of real-time data handling we will be able to process sensor data in real-time. 
 
