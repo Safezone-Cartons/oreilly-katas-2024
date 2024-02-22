@@ -30,6 +30,7 @@ Nurse is the person who is observing the Nurse Station system
 - Create snapshot of patient data
 - View patient threshold values
 - Set focus for patient on Monitoring screen
+- Read consolidated health metrics for patients on screen
 
 ---
 
@@ -39,10 +40,11 @@ Medical Staff who manages several patients in different stations and floors
 
 **Actions:**
 
-- Watch combined health metrics of selected patients
+- Watch combined health metrics of selected patients (mobile app)
 - Setup alerts for specific patients s/he is responsible for
+- Sends a patient back home after recovery
+- Everything what a *leading nurse* can do
 - ...
-- everything what a *leading nurse* can do
 
 ---
 
@@ -52,4 +54,4 @@ Person who is monitored by the MonitorMe system
 
 **Actions:**
 
-- ... 
+- Accidentally removes a device

@@ -12,10 +12,10 @@ StayHealthy, Inc. is a well known brand in the medical SaaS market, their two fl
 
 Currently, they have evaluated to expand into the EU market, but due to the higher regulations, they decided to enter into the more profitable hospital market, with a new monitoring system for patients vital signal. 
 
-With the MonitorMe Project, StaylHealth, Inc. wants to reinvent the way patients vital signs are observed in a safer and more efficient way. 
+With the MonitorMe Project, StayHealthy, Inc. wants to reinvent the way patients vital signs are observed in a safer and more efficient way. 
 
 # Business drivers
 
 1. Provide an extendable solution to monitor dynamically patients vital signs.
 2. Grow the market share in the home market and position themselves at the leading patient data platform.
-3. 
+3. Provide high quality healthcare to patients
