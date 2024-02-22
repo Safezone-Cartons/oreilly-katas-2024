@@ -23,7 +23,6 @@ flowchart TD
     DPY --> TEST --> INSA --> Provision --> Attach --> LB
     
 ```
-[![](https://mermaid.ink/img/pako:eNpFUFFrwyAQ_iuHTw7asb7moWCWQQthFJKxDPJyi2YJi1rUdJTS_z6NLjsQz-877_vubqTTXJCM9JP-6QY0DuqiVeCDvTfUHzgZ3QlrHyJ6eMvps1DO4ASH-TOhx9eK0UI47AY4KutQdQIY9EZLKPP_ooaubAOX3eNTosqclho55DgF0iS4OH34rudJX6WXDB92iWEuaNF4gdMJrl-qmrLZaYlOcKiFdYlZ3cN2uw-zrUMuQBlxL_hnyL9D7Bfbq52lKqhAotiS-B1dRjtqFbtHV7Ev2RApjMSR-y3fQqOWuEFI0ZLMpxzNd0tadfd16I1XV9WRzJlZbMh85n6MYsQvg5JkPU5W3H8B515_Gg?type=png)](https://mermaid.live/edit#pako:eNpFUFFrwyAQ_iuHTw7asb7moWCWQQthFJKxDPJyi2YJi1rUdJTS_z6NLjsQz-877_vubqTTXJCM9JP-6QY0DuqiVeCDvTfUHzgZ3QlrHyJ6eMvps1DO4ASH-TOhx9eK0UI47AY4KutQdQIY9EZLKPP_ooaubAOX3eNTosqclho55DgF0iS4OH34rudJX6WXDB92iWEuaNF4gdMJrl-qmrLZaYlOcKiFdYlZ3cN2uw-zrUMuQBlxL_hnyL9D7Bfbq52lKqhAotiS-B1dRjtqFbtHV7Ev2RApjMSR-y3fQqOWuEFI0ZLMpxzNd0tadfd16I1XV9WRzJlZbMh85n6MYsQvg5JkPU5W3H8B515_Gg)
 
 ### Central Hub
 
