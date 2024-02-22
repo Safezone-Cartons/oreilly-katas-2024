@@ -19,6 +19,7 @@ The aim of this documentation repository is to communicate our design for the pr
 [Problem Background](Problem/README.md)
 
 - [Business Goals, Drivers](Problem/BusinessGoalsDrivers.md)
+- [Data Calculations](Problem/DataCalculation.md)
 - [Stakeholder Concerns](Problem/StakeholderConcerns.md)
 - [Architecture Analysis](Problem/ArchitectureAnalysis.md)
 - [Actors, Actions & Significant Scenarios](Problem/ActorsActions.md)

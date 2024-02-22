@@ -1,10 +1,8 @@
 # Solution
 
+- [Diagram Technique](DiagramTechnique.md)
+- [Overall Architecture Style Analysis](ArchitecturePattern.md)
+- [Conceptual System Design](Conceptual.md)
+- [Data Store Processing](DataStore.md)
 - [Deployment](Deployment.md)
-- [Provisioning](Provisioning.md)
-- [Connectivity](HardwareConnectivity.md)
-- [Overall System](OverallSystem.md)
-- [Edge Gateway System](EdgeGatewaylSystem.md)
-- [Edge Gateway Container](EdgeGatewayContainer.md)
-- []()
-- []()
+- [ADRs](../ADRs/README.md)
