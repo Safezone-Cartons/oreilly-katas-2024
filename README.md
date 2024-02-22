@@ -16,30 +16,19 @@ The aim of this documentation repository is to communicate our design for the pr
 
 [Problem Background](Problem/README.md)
 
-- [Business Goals, Drivers & Requirements](Problem/BusinessGoalsDriversAndRequirements.md)
-- [Stakeholder Concerns](Problem/StakeholderConcerns.md)
+- [Business Goals, Drivers](Problem/BusinessGoalsDrivers.md)
+- [Stakeholder Concerns](Problem/StakeholderConcerns.md) todo
 - [Architecture Analysis](Problem/ArchitectureAnalysis.md)
-- [Actors, Actions & Significant Scenarios](Problem/ActorsActionsAndSignificantScenarios.md)
+- [Actors, Actions & Significant Scenarios](Problem/ActorsActions.md)
 - [Constraints & Assumptions](Problem/ConstraintsAndAssumptions.md)
 
 [Solution Background](Solution/README.md)
 
-- [Architecture Principles](Solution/ArchitecturePrinciples.md)
-- [Overall Architecture Style Analysis](Solution/ArchitecturePatterns.md)
+- [Overall Architecture Style Analysis](Solution/ArchitecturePattern.md)
 - [Conceptual System Design](Solution/Conceptual.md)
-- [Data Store Solution](Solution/DataStore.md)
-- [Security](Solution/Security.md)
+- [Data Store Processing](Solution/DataStore.md)
 - [Deployment](Solution/Deployment.md)
-- [Roadmap](Solution/Roadmap.md)
 - [ADRs](ADRs/README.md)
-
-[Views & Perspectives](ViewsAndPerspectives/README.md)
-
-- [Functional View](ViewsAndPerspectives/FunctionalView/README.md)
-- [Event Storming](ViewsAndPerspectives/EventStorming/README.md)
-- [Scenario Flow Diagrams](ViewsAndPerspectives/scenarios/README.md)
-- [C4 Models](ViewsAndPerspectives/C4Models/README.md)
-- [Communication View](ViewsAndPerspectives/CommunicationView/README.md)
 
 ## Resources <a href='#' id='resources'></a>
 
