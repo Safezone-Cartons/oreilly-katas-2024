@@ -7,8 +7,39 @@ We decided to go with this kind of architecture visualization.
 
 [ADR 01 - Diagram Technique](../ADRs/01-DiagramTechnique.md)
 
-### Legend
-
-Our diagram will be modeled with the following notation.
+### C4 Model Key
 
 ![](../assets/diagrams/c4-legend.jpg)
+
+### C1 - MonitorMe Context Diagram
+
+The Context diagram shows how the MonitorMe system interacts with people and systems outside of it.
+
+Three types of users have been identified:
+- (Lead) Nurse,
+- Doctor
+- Patient
+- Administrator. *(TODO to include)*
+
+
+These are further defined in Actors, Actions & Significant Scenarios, with definitions in the Glossary.
+
+![](../assets/diagrams/c1-level-diagram-overall-system.jpg)
+
+### C2 - Edge Gateway Container Diagram
+
+This diagram describes the architecture of our Edge-Gateway (EGW).  
+The EGW gets installed within each nurse room inside a Hospital. It is the communication receiver and processor for each Vital Sign device of a patient.
+
+![](../assets/diagrams/c2-level-diagram-edge-gateway-container.jpg)
+
+For being able to handle partial outages we made this container redundant by using multiple of those containers per nurse station.
+
+![](../assets/diagrams/c2-level-diagram-edge-gateway-system.jpg)
+
+
+### C3 - API Application Diagram
+
+The API application is the heart of each nurse room. It houses the overall functionality to process and interact with data.
+
+![](../assets/diagrams/c3-level-diagram-api-application.jpg)
