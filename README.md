@@ -35,8 +35,4 @@ The aim of this documentation repository is to communicate our design for the pr
 - [2024 Architecture Katas Presentation](assets/docs/2024-spring-kick-off.pdf)
 - [Project Miro Board](https://miro.com/app/board/uXjVNuLaflw=/?share_link_id=105993346647)
 
-## References
-
-- 
-
 ---

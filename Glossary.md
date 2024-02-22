@@ -19,6 +19,7 @@ The following are terms used in this documentation that may not be clear to all 
 | Monitoring Screen     | A physical device that is located on each Nurse station which displays consolidated patients vital signs of that station.                                                                                  |
 | MonitorMe             | The system to which this architecture documentation relates.                                                                                                                                               |
 | MonitorMe Mobile App  | The mobile application that this architecture relates to.                                                                                                                                                  |
+| IoT Device            | Internet of Things physical device. It communicates over a network with other systems.                                                                                                                     |
 
 
 ------
