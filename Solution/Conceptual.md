@@ -50,3 +50,10 @@ The mobile application is the information system for a doctor.
 S(he) can check the current health metrics for patients responsible and adjust individual thresholds for notifications
 
 ![](../assets/diagrams/c3-level-diagram-mobile-application.jpg)
+
+---
+
+Todos:
+
+- [ ] Create extended diagrams (C2/C3)
+- [ ] Provide visual options for App/Monitor
