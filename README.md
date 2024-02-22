@@ -33,6 +33,7 @@ The aim of this documentation repository is to communicate our design for the pr
 - [Data Store Processing](Solution/DataStore.md)
 - [Deployment](Solution/Deployment.md)
 - [ADRs](ADRs/README.md)
+- [Ideas Visuals](ViewsAndPerspectives/README.md)
 
 ## Resources <a href='#' id='resources'></a>
 
