@@ -19,6 +19,7 @@ flowchart TD
     AWX --> LB --> INSA --> DPY --> Attach  --> LB
     LB ----> INSX
 ```
+[![](https://mermaid.ink/img/pako:eNpFkMFqwzAMhl9F6ORC-wI5DJLl0EIoha4sg1w0R2nMYns4ysYoffc5jZcZjOXPH_Jv31D7ljHDbvDfuqcg8FI2DuLIX2sVJ5yC1zyOm4XuL4V6ZieBBthP74kejudclSykezi4Uchphhy64C1Uxb9Uq_W0TrQqVOWphYKGmYeEy9Obijd_mdF4Z9w14VzmO9SygPiE12yw2z3NydcnPEC18Dnlo4jNF3Fpk5y_PHGb7Bq3aDlYMm38otssNCg9W24wi2VL4aPBxt2jR5P484_TmEmYeIvTZ0vCpaFrIItZR8PI91_fBWxM?type=png)](https://mermaid.live/edit#pako:eNpFkMFqwzAMhl9F6ORC-wI5DJLl0EIoha4sg1w0R2nMYns4ysYoffc5jZcZjOXPH_Jv31D7ljHDbvDfuqcg8FI2DuLIX2sVJ5yC1zyOm4XuL4V6ZieBBthP74kejudclSykezi4Uchphhy64C1Uxb9Uq_W0TrQqVOWphYKGmYeEy9Obijd_mdF4Z9w14VzmO9SygPiE12yw2z3NydcnPEC18Dnlo4jNF3Fpk5y_PHGb7Bq3aDlYMm38otssNCg9W24wi2VL4aPBxt2jR5P484_TmEmYeIvTZ0vCpaFrIItZR8PI91_fBWxM)
 
 ### Central Hub
 
