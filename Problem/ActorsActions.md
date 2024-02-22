@@ -17,6 +17,7 @@ Leading Nurse is the person who can manage specific in the Nurse Station system
 - Modify patient threshold
 - Everything what a *Nurse* can do
 
+---
 
 **Actor:** Nurse
 
@@ -30,6 +31,7 @@ Nurse is the person who is observing the Nurse Station system
 - View patient threshold values
 - Set focus for patient on Monitoring screen
 
+---
 
 **Actor:** Doctor
 
@@ -42,6 +44,7 @@ Medical Staff who manages several patients in different stations and floors
 - ...
 - everything what a *leading nurse* can do
 
+---
 
 **Actor:** Patient
 
