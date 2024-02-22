@@ -24,6 +24,7 @@ The aim of this documentation repository is to communicate our design for the pr
 
 [Solution Background](Solution/README.md)
 
+- [Diagram Technique](Solution/DiagramTechnique.md)
 - [Overall Architecture Style Analysis](Solution/ArchitecturePattern.md)
 - [Conceptual System Design](Solution/Conceptual.md)
 - [Data Store Processing](Solution/DataStore.md)
