@@ -2,7 +2,7 @@
 
 # Architectural Kata Spring 2024 - Safezone Cartons
 
-Welcome to our entry to the O'Reilly Spring 2024 Architectural Kata.  
+Welcome to our entry to the O'Reilly Winter 2024 Architectural Kata.  
 The aim of this documentation repository is to communicate our design for the problem described, for a stakeholder and development team audience.
 
 ## Members
