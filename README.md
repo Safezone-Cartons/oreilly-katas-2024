@@ -1,3 +1,5 @@
+![Safezone Cartons](assets/images/safezone-cartons.png)
+
 # Architectural Kata Spring 2024 - Safezone Cartons
 
 Welcome to our entry to the O'Reilly Spring 2024 Architectural Kata.  
