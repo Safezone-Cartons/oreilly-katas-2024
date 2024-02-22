@@ -1,6 +1,6 @@
-# Conceptual System Design
+# Diagram Technique
 
-The following show the conceptual design for the MonitorMe system.  
+To follow a consistent communication style we chose the C4 model as our design type.  
 More information about C4 modelling can be found at [c4model.com](https://c4model.com/).
 
 We decided to go with this kind of architecture visualization.
