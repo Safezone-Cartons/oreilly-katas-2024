@@ -8,7 +8,7 @@ Approved
 
 ## Context
 
-The propose case of *MontorMe!* requires a self-hosted on premise solution which is easy maintainable, performant, reliable, available, flexible, decentralized.
+The proposal case of *MontorMe!* requires a self-hosted on premise solution which is easy maintainable, performant, reliable, available, flexible, decentralized.
 
 ## Decision
 
