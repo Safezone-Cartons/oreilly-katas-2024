@@ -43,3 +43,10 @@ For being able to handle partial outages we made this container redundant by usi
 The API application is the heart of each nurse room. It houses the overall functionality to process and interact with data.
 
 ![](../assets/diagrams/c3-level-diagram-api-application.jpg)
+
+### C3 - Mobile Application Diagram
+
+The mobile application is the information system for a doctor.  
+S(he) can check the current health metrics for patients responsible and adjust individual thresholds for notifications
+
+![](../assets/diagrams/c3-level-diagram-mobile-application.jpg)
