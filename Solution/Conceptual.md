@@ -40,6 +40,7 @@ For being able to handle partial outages we made this container redundant by usi
 ### C2 - Edge Gateway Container Diagram
 
 The centralized Central Hub, located in each Hospital is responsible for up to 500 patients.
+This system will be set up for handling outages and redundancy
 
 ![](../assets/diagrams/c2-level-diagram-system-hub-container.jpg)
 
