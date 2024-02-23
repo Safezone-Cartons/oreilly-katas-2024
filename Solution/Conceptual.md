@@ -37,6 +37,11 @@ For being able to handle partial outages we made this container redundant by usi
 
 ![](../assets/diagrams/c2-level-diagram-edge-gateway-system.jpg)
 
+### C2 - Edge Gateway Container Diagram
+
+The centralized Central Hub, located in each Hospital is responsible for up to 500 patients.
+
+![](../assets/diagrams/c2-level-diagram-system-hub-container.jpg)
 
 ### C3 - API Application Diagram
 
@@ -56,4 +61,10 @@ S(he) can check the current health metrics for patients responsible and adjust i
 Todos:
 
 - [ ] Create extended diagrams (C2/C3)
+  - [ ] System Hub
+  - [ ] Telegraf
+  - [ ] Medical Staff Application
+  - [ ] Vital Sign Application
+  - [ ] Patient Configuration Application
+- [ ] Layout redundancy in Central Hub
 - [ ] Provide visual options for App/Monitor
