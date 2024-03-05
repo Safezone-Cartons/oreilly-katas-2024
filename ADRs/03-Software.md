@@ -21,3 +21,8 @@ NodeJS is lightweight and efficient footprint, and therefore ideal to use in an 
 
 Due to its event-driven nature and the capability of real-time data handling we will be able to process sensor data in real-time. 
 
+---
+
+[> Home](../README.md)    [> Architecture Decision Records](README.md)
+[< Prev](02-SsystemArchietcture.md)  |  [Next >](04-EdgeGatewaySystem.md)
+
