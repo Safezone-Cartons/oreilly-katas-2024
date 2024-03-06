@@ -56,6 +56,8 @@ Person who is monitored by the MonitorMe system
 
 - Accidentally removes a device
 
+--- 
+
 **Actor:** System Administrator
 
 Person who is responsible for maintaining the overall MonitorMe system
@@ -64,3 +66,9 @@ Person who is responsible for maintaining the overall MonitorMe system
 
 - Integrate new Vital Sign device into the system
 - Takes vital sign devices out of order after replacement
+
+
+
+---
+[> Home](../README.md)    [>  Problem Background](README.md)
+[< Prev](ArchitectureAnalysis.md)  |  [Next >](ConstraintsAndAssumptions.md)

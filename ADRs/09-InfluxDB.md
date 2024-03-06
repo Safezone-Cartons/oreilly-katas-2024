@@ -30,3 +30,7 @@ Negative:
 
 -
 
+
+---
+[> Home](../README.md)    [> Architecture Decision Records](README.md)
+[< Prev](08-Telegraf.md)  |  [Next >](10-SystemHardware.md)

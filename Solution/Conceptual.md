@@ -59,6 +59,9 @@ S(he) can check the current health metrics for patients responsible and adjust i
 
 ---
 
+[> Home](../README.md)    [> Solution](README.md)
+[< Prev](ArchitecturePattern.md)  |  [Next >](OverallSystem.md)
+
 Todos:
 
 - [ ] Create extended diagrams (C2/C3)

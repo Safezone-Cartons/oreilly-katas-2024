@@ -19,3 +19,9 @@ With the MonitorMe Project, StayHealthy, Inc. wants to reinvent the way patients
 1. Provide an extendable solution to monitor dynamically patients vital signs.
 2. Grow the market share in the home market and position themselves at the leading patient data platform.
 3. Provide high quality healthcare to patients
+
+
+
+---
+[> Home](../README.md)    [>  Problem Background](README.md)
+[< Prev](README.md)  |  [Next >](Requirements.md)

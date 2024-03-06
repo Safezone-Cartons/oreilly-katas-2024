@@ -9,4 +9,7 @@ The following are the concerns from the various stakeholders of the system. Thes
 | Patient      | - no additional burden as the normal experience within a hospital                                                                                                    |         |
 | System Admin | - maintain the system without getting overwhelmed<br/>                                                                                                               | Administration, Workflow          |
 
+
 ---
+[> Home](../README.md)    [>  Problem Background](README.md)
+[< Prev](DataCalculation.md)  |  [Next >](ArchitectureAnalysis.md)

@@ -28,3 +28,6 @@ Negative:
 - Higher cost
 - Higher system complexity 
 
+--- 
+[> Home](../README.md)    [> Architecture Decision Records](README.md)
+[< Prev](03-Software.md)  |  [Next >](05-DeployementSystem.md)

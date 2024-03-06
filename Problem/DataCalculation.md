@@ -44,3 +44,8 @@ As we need to find a suitable solution we also need to consider the amount of da
 
 If a station is completely filled, the do have a maximum of 1.166.822.400 Bytes (~1.09 GB) per day and station that needs to be processed.
 As we only need to process this for a timeframe of 24 hrs for short term analysis, we will design the system around that.
+
+
+---
+[> Home](../README.md)    [>  Problem Background](README.md)
+[< Prev](Requirements.md)  |  [Next >](StakeholderConcerns.md)

@@ -29,3 +29,6 @@ Negative:
 
 - Additional setup required upfront
 
+---
+[> Home](../README.md)    [> Architecture Decision Records](README.md)
+[< Prev](07-ArchitectureDecision.md)  |  [Next >](09-InfluxDB.md)

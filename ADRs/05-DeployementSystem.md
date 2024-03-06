@@ -34,5 +34,10 @@ Positive:
 Negative:
 
 - more complex update process
-- 
+
+
+---
+
+[> Home](../README.md)    [> Architecture Decision Records](README.md)
+[< Prev](04-EdgeGatewaySystem.md)  |  [Next >](06-ProvisioningService.md)
 

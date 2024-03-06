@@ -11,3 +11,9 @@ In combination with InfluxDB is can handle our requirements for collecting and p
 
 - **Healthcare IoT Devices:**
     - *Scenario:* Telegraf can collect data from healthcare IoT devices like wearable sensors, monitoring patient vitals and activities, and sending the information to a central database for further analysis.
+
+
+---
+
+[> Home](../README.md)    [> Solution](README.md)
+[< Prev](EdgeGatewayContainer.md)  |  [Next >](Provisioning.md)

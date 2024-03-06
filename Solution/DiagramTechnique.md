@@ -12,3 +12,8 @@ We decided to go with this kind of architecture visualization.
 Our diagram will be modeled with the following notation.
 
 ![](../assets/diagrams/c4-legend.jpg)
+
+
+---
+[> Home](../README.md)    [> Solution](README.md)
+[< Prev](README.md)  |  [Next >](ArchitecturePattern.md)

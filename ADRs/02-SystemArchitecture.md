@@ -8,11 +8,11 @@ Approved
 
 ## Context
 
-The propose case of *MontorMe!* requires a self-hosted on premise solution which is easy maintainable, performant, reliable, available, flexible, decentralized.
+The proposal of *MontorMe!* requires a self-hosted on premise solution which is easy maintainable, performant, reliable, available, flexible, decentralized.
 
 ## Decision
 
-We will opt for an **Edge Computing** environment, where each unit area has its very own Edge Processor, supported by a Local Central Storage and Deep Analysis system. 
+We will opt for an **Edge Computing** environment, where each Nurse Station has its very own Edge Gateway System, supported by a Local Central Storage and Deep Analysis system. 
 
 ## Consequences
 
@@ -29,3 +29,8 @@ We will opt for an **Edge Computing** environment, where each unit area has its 
 - We require more setup time
 - Higher maintenance time when running device updates
 - Relatively high initial cost
+
+---
+
+[> Home](../README.md)    [> Architecture Decision Records](README.md)
+[< Prev](01-DiagramTechnique.md)  |  [Next >](03-Software.md)

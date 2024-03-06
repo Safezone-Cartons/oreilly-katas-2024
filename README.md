@@ -19,6 +19,7 @@ The aim of this documentation repository is to communicate our design for the pr
 [Problem Background](Problem/README.md)
 
 - [Business Goals, Drivers](Problem/BusinessGoalsDrivers.md)
+- [Requirements](Problem/Requirements.md)
 - [Data Calculations](Problem/DataCalculation.md)
 - [Stakeholder Concerns](Problem/StakeholderConcerns.md)
 - [Architecture Analysis](Problem/ArchitectureAnalysis.md)
@@ -27,11 +28,17 @@ The aim of this documentation repository is to communicate our design for the pr
 
 [Solution Background](Solution/README.md)
 
-- [Diagram Technique](Solution/DiagramTechnique.md)
-- [Overall Architecture Style Analysis](Solution/ArchitecturePattern.md)
-- [Conceptual System Design](Solution/Conceptual.md)
-- [Data Store Processing](Solution/DataStore.md)
-- [Deployment](Solution/Deployment.md)
+- [Diagram Technique](Solution/DiagramTechnique.md) 
+- [Overall Architecture Style Analysis](Solution/ArchitecturePattern.md) 
+- [Conceptual System Design](Solution/Conceptual.md) 
+    - [Overall System](Solution/OverallSystem.md) 
+    - [Edge Gateway System](Solution/EdgeGatewaylSystem.md)
+    - [Edge Gateway Container](Solution/EdgeGatewayContainer.md)
+- [Data Store Processing](Solution/DataStore.md) 
+- [Provisioning](Solution/Provisioning.md) 
+- [System Deployment](Solution/Deployment.md) 
+- [Hardware](Solution/HardwareConnectivity.md) 
+- [QR Device](Solution/QRDeviceRegistryFlow.md) 
 - [ADRs](ADRs/README.md)
 - [Ideas Visuals](ViewsAndPerspectives/README.md)
 

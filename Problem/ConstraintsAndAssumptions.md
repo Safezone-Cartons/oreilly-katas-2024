@@ -10,4 +10,7 @@
 - Each vital sign device has a unique QR-Code code with the device identifier
 - Each (nurse) station within the Hospital has a internal network set up that MonitorMe can use
 
+
 ---
+[> Home](../README.md)    [>  Problem Background](README.md)
+[< Prev](ActorsActions.md)  |  [Next >](README.md)

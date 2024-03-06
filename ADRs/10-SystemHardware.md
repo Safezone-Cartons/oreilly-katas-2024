@@ -30,3 +30,7 @@ We will opt for an **Edge Computing** environment, where each unit area has its 
 - Higher maintenance time when running device updates
 - Higher initial cost
 
+
+---
+[> Home](../README.md)    [> Architecture Decision Records](README.md)
+[< Prev](09-InfluxDB.md)  |  [Next >](11-CacheStrategy.md)

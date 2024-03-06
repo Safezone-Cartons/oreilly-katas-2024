@@ -65,6 +65,5 @@ In the end the benefit of having a combination of Event-Driven and Service-Based
 ADR: [07 Architecture Decision](../ADRs/07-ArchitectureDecision.md)
 
 ---
-
-[> Home](../README.md)    [> Solution Background](README.md)
-[< Prev](ArchitecturePrinciples.md)  |  [Next >](Conceptual.md)
+[> Home](../README.md)    [> Solution](README.md)
+[< Prev](DiagramTechnique.md)  |  [Next >](Conceptual.md)
