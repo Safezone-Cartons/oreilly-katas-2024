@@ -59,6 +59,42 @@ S(he) can check the current health metrics for patients responsible and adjust i
 
 ---
 
+## Architecture Characteristics
+
+As described in our [Architecture Analysis](../Problem/ArchitectureAnalysis.md) our three most important characteristics for the system are:
+1. Availability
+2. Performance
+3. Agility
+
+
+With the following explanation we want to connect our conceptual design how it will fit into our analysis:
+
+
+#### Availability
+
+- The system itself is designed to be self-sufficient once it is up and running for the first time.
+- The general option to be able to integrate additional components into the Central Hub such as a GSM module for sending notifications also via SMS will help ensuring that important information are always send to Medical Professionals.
+- Each of the Edge-Gateway - which are physically located in each nurse station - do have a component for Anomaly detection of the Medical devices.<br>This will ensure that always the correct data is send and that the integrity of the data can be trusted.<br>A information will be displayed onto the Monitor in case of a failure at any device, any point in time to take immediate action by the medical professionals.  
+- In addition to that we planned a redundant setup of at least 2 Edge-Gateways per station in case of a temporary outage from any of those.
+- For longer lasting outages, or in case of a power supply outage, we'll equip each of our Software Systems - Central Hub and Edge Gateways - with a dedicated UPS (Uninterruptible Power Supply). 
+
+#### Performance
+
+- We accounted for different scenarios where either synchronous or asynchronous exchange of information is needed by utilising an Event-Driven Architecture for real-time information exchange<br>and a Service Based approach for the overall communication between the Edge-Gateway and the Central Hub system.
+- For processing the unstructured data fast and efficiently our system relies on Telegraf which requires a very minimal memory footprint for operation and is specifically designed for IoT systems.
+- To ensure fast processing without the need for making additional requests or network calls, the data analysis happens on side at the Edge-Gateway to reduce latency as much as possible. Persistent storage at the Central Hub happens asynchronously, afterward on a regular basis.
+- To also keep the memory footprint in favor of performance as small as possible, we suggest NodeJS which provides us additionally with Real-Time event processing capabilities.
+
+#### Agility
+
+- For reacting to industry changes, or fast iterations of the system we will make use of a general configuration of the Telegraf configuration by the System Administrator at the Central Hub.<br>On every interruption or restart of the Edge-Gateway the latest configuration will be loaded in the background.<br>This enables the system to easily add/exchange or discontinue the use of specific Monitoring Devices.
+- We're using an Internet-of-Things (IoT) approach for the overall medical devices to make them easy to replace.
+- As the internal Application inside each Edge-Gateway system is a simple REST API that can communicate to the visual component for powering the Device Monitor at the nurse station<br>this can be easily transformed into a different technology stack when adapting the solution, e.g. oversees where other technologies are more frequently used, without any impact of the functionality of the system itself.
+- For automated and streamlined integration and provisioning we're going for Ansible to deploy the system.
+- Our Edge-Gateway and Central Hub solution by definition is scalable and modular. Therefor also a capacity increase of patients in a hospital is not an issue at all for the system.  
+
+---
+
 [> Home](../README.md)    [> Solution](README.md)
 [< Prev](ArchitecturePattern.md)  |  [Next >](OverallSystem.md)
 
