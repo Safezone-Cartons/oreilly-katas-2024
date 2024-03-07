@@ -73,6 +73,7 @@ With the following explanation we want to connect our conceptual design how it w
 #### Availability
 
 - The system itself is designed to be self-sufficient once it is up and running for the first time.
+- We split the overall solution into mainly two parts: Edge-Gateway and Central Hub, to make it fault-tolerant.
 - The general option to be able to integrate additional components into the Central Hub such as a GSM module for sending notifications also via SMS will help ensuring that important information are always send to Medical Professionals.
 - Each of the Edge-Gateway - which are physically located in each nurse station - do have a component for Anomaly detection of the Medical devices.<br>This will ensure that always the correct data is send and that the integrity of the data can be trusted.<br>A information will be displayed onto the Monitor in case of a failure at any device, any point in time to take immediate action by the medical professionals.  
 - In addition to that we planned a redundant setup of at least 2 Edge-Gateways per station in case of a temporary outage from any of those.
