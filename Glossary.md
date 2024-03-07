@@ -20,8 +20,10 @@ The following are terms used in this documentation that may not be clear to all 
 | MonitorMe             | The system to which this architecture documentation relates.                                                                                                                                               |
 | MonitorMe Mobile App  | The mobile application that this architecture relates to.                                                                                                                                                  |
 | IoT Device            | Internet of Things physical device. It communicates over a network with other systems.                                                                                                                     |
-
-
+| USP                   | Uninterruptible Power Supply, that will help make the network reliable in case of power supply failures.                                                                                                   |
+| Availability          | For our solution we defined this as uptime of the solution, for each of its systems.                                                                                                                       |
+| Performance           | For our solution we defined this as the amount of time to process a business request by also considering a low memory footprint                                                                            |
+| Agility               | For our solution we defined this as the ability of the system to quickly react to business changes and expansion of the system.                                                                            |
 ------
 
 [> Home](README.md)
