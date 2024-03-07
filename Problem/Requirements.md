@@ -2,7 +2,7 @@
 
 ## Architecturally significant business requirements
 
-* Read data from at least 8 vital sign devices
+* Read data from at least 8 vital sign devices (medical devices)
 * Monitoring screen setup
 * Average response time <1 second on monitoring system
 * Patient rotating system every ~5 seconds
